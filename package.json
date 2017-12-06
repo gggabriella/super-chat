@@ -1,0 +1,21 @@
+{
+  "name": "super-chat",
+  "version": "1.0.0",
+  "description": "Codetrotters Super Chat",
+  "main": "mainFile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gggabriella/super-chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gggabriella/super-chat/issues"
+  },
+  "homepage": "https://github.com/gggabriella/super-chat#readme"
+}
